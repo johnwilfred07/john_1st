@@ -10,7 +10,7 @@ import java.util.TimeZone;
  * Created by nnandroid03user on 4/9/17.
  */
 
-public class Timesss {
+public class UTC_converter {
     public int getdifferencewith_two_times(String strDate1, String strDate2) {
         int totalmin = 0;
         Calendar c = Calendar.getInstance();

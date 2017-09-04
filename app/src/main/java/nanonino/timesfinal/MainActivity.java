@@ -6,7 +6,7 @@ import android.support.v7.app.AppCompatActivity;
 import java.text.SimpleDateFormat;
 import java.util.Calendar;
 
-import nanonino.mylibrary.UTC_Converter;
+import nanonino.mylibrary.UTC_converter;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -19,7 +19,7 @@ public class MainActivity extends AppCompatActivity {
         SimpleDateFormat sdf = new SimpleDateFormat("HH:mm:ss aa");
         String strDate = sdf.format(c.getTime());
         System.out.println("the current time 1 is " + strDate);
-        UTC_Converter utc_converter = new UTC_Converter();
+        UTC_converter utc_converter = new UTC_converter();
         int time = utc_converter.getdifferencewith_two_times(strDate, strDate);
         System.out.println("the time is  is " + time);
 

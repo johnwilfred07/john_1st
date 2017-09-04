@@ -5,8 +5,11 @@
       <module fileurl="file://$PROJECT_DIR$/Timesfinal.iml" filepath="$PROJECT_DIR$/Timesfinal.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/john_1st.iml" filepath="$PROJECT_DIR$/john_1st.iml" />
+      <module fileurl="file://$PROJECT_DIR$/john_2st.iml" filepath="$PROJECT_DIR$/john_2st.iml" />
       <module fileurl="file://$PROJECT_DIR$/mylibrary/mylibrary.iml" filepath="$PROJECT_DIR$/mylibrary/mylibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mylibrary_1/mylibrary_1.iml" filepath="$PROJECT_DIR$/mylibrary_1/mylibrary_1.iml" />
       <module fileurl="file://$PROJECT_DIR$/mylibrary_1/mylibrary_1.iml" filepath="$PROJECT_DIR$/mylibrary_1/mylibrary_1.iml" />
     </modules>
   </component>
