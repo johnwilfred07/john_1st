@@ -14,15 +14,15 @@ UTC Time convertor for all Time Zones
 
 2.Declare the TimeZone class in your MainActivity.class
 
-  TimeZone timezone=new TimeZone();
+  UTC_converter utc_converter = new UTC_converter();
 
 
 
 3.Call the method with reference to the object of the class
 
 
-//returns the UTC_time in String 
- String UTC_time = timezone.Common_UTC_Converter(String date_to_be_passed,String time_to_be_passed)
+//Returns the UTC_time in String 
+ String UTC_time = utc_converter.Common_UTC_Converter(String date_to_be_passed,String time_to_be_passed)
  
  
  
