@@ -23,3 +23,14 @@ UTC Time convertor for all Time Zones
 
 //returns the UTC_time in String 
  String UTC_time = timezone.Common_UTC_Converter(String date_to_be_passed,String time_to_be_passed)
+ 
+ 
+ 
+ Note:If library not importing in build.gradle 
+ Add this to your project module  
+
+allprojects {
+    repositories {
+       **// maven { url 'https://jitpack.io' }//**
+    }
+}
